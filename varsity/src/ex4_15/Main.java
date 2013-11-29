@@ -1,5 +1,6 @@
-package ex4_14;
+package ex4_15;
 
+import ex4_15.temp;
 import java.util.Scanner;
 
 /**
@@ -28,8 +29,8 @@ public class Main {
         // Now print the result
         System.out.format("%.2f", tmp.ToCal() );
         
-        // Just for printing a new line to look good. Nothing
-        // is importent here ;)
+        /// Just for printing a new line to look good. Nothing
+        /// is importent here ;)
         System.out.println();
         
         
