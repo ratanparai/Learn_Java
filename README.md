@@ -7,4 +7,4 @@ Java sample programs Solution from text book
 How to run?
 ===========
 
-Please opne the file you want to run and then Run>Run file (Shift+F6).
+Please open the file you want to run and then Run>Run file (or press Shift+F6).
