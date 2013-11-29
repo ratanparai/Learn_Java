@@ -1,6 +1,5 @@
 package ex4_15;
 
-import ex4_15.temp;
 import java.util.Scanner;
 
 /**
