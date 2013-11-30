@@ -20,6 +20,7 @@ public class Paisa {
      * This method take nothing. You have to initialize the value of
      * Taka when creating the object. value is taken in initialization
      * step.
+     * @return Taka converted to Paisa in <code>int</code>
      */
     public int toPaisa()
     {

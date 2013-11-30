@@ -14,9 +14,16 @@ public class temp {
     
     public temp (int Fah)
     {
-        // intialize the value of Fahrenheite
+        // intialize the value of Fahrenheit
         this.temperature = Fah;
     }
+    
+    /**
+     * This method takes nothing. You need to initialize the value of 
+     * Temperature in Fahrenheit when creating a object of this class.
+     * 
+     * @return Temperature in Celsius as <code>int</code> value  
+     */
     
     public float ToCal()
     {

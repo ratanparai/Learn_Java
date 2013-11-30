@@ -21,11 +21,13 @@ public class ex4_13_harmonic {
         this.n = n;
     }
     
+    /**
+     * Calculate the sum of  harmonic equation.
+     * @return The sum of the harmonic equation in <code>int</code>
+     */
+    
     public double calculate()
     {
-       
-        
-        
         for (int i=1; i<=n; i++)
         {
             

@@ -15,5 +15,19 @@ public class Varsity {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+       Nothing nw = new Nothing();
+       
+       nw.printHello("Kamal", 35);
+       
+       String who = "My name is Ratan";
+       
+       System.out.println(who.length());
+        
+        
+        
+        
     }
+
+    
 }
