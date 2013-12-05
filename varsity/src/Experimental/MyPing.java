@@ -83,7 +83,6 @@ public class MyPing {
         
         /// read the output from the command and print
         /////////////////////////////////////////////
-        System.out.println("Here is the standard output of the command:");
         
         // if there is any input stream (without error) then print the 
         // input
