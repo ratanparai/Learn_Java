@@ -94,7 +94,7 @@ public class MyPing {
             
             
             /**
-             * TODO: do something special without showing plain
+             * TODO : do something special without showing plain
              * output 
              */
             /*int indexOf = s.indexOf("TTL=");
